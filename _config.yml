@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Helen Haimei Zhao / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Helen Haimei Zhao"
+description              : &description "I am a Postdoc Research Fellow at the School of Biomedical Engineering at the University of Sydney, advised by A/Prof. Arnold Lining Ju. I am doing research on AI for Biomedical and Digital Health. I obtained my Ph.D. degree from the School of Computer Science in August 2024 under the supervision of Prof. Dacheng Tao."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
